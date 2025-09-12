@@ -1,2 +1,1 @@
-# githubworkshop
-this is description
+this is for se workshop
